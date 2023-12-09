@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@/*": ["./src/*"],
+            "@/sass/*": ["./src/sass/*"],
+            "@/helpers/*": ["./src/helpers/*"]
+        }
+    }
+}
